@@ -5,7 +5,7 @@ A Python-based security scanning tool and API service that analyzes files, URLs,
 ## 📌 Features
 - Scan files for malware using hash and signature analysis
 - Analyze URLs and links for phishing or malicious threats
-- Generate and compare file hashes (MD5/SHA256)
+- Generate and compare file hashes (SHA256)
 - REST API for automated and programmatic scanning
 - Easily integrate with bots or other security tools
 - Lightweight Python implementation
